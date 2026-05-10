@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://db-43i2dk.vpc-cdb.ntruss.com:3306/receipt_expense_tracker?useUnicode=true&characterEncoding=UTF-8&connectionCollation=utf8mb4_unicode_ci&serverTimezone=Asia/Seoul
     username: expenseuser
-    password: '12345'
+    password: 'a1234567!'
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
